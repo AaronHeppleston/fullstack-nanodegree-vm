@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/apis":{"create":true,"guestpath":"/home/vagrant/apis","hostpath":"/Users/mb15aaron/projects/fullstack/vagrant/apis","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mb15aaron/projects/fullstack/vagrant","disabled":false,"__vagrantfile":true}}}
